@@ -68,7 +68,9 @@ In this project, I used **Pandas** to replicate various SQL operations on datase
 Here’s a screenshot illustrating how SQL queries are translated to Pandas operations:
 ![image](https://github.com/user-attachments/assets/6aae0ab7-194c-42b5-90ba-5488d64cd5a9)
 
+## Acknowledgments
 
+This project was developed with assistance from OpenAI's ChatGPT for generating ideas, explanations, and code snippets.
 
 ## Requirements
 
